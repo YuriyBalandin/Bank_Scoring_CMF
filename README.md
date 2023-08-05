@@ -1,7 +1,6 @@
 # Bank_Scoring_CMF
-Проект, выполненный в ходе обучения на программе "Анализ данных" от Центра Математических Финансов НИУ ВШЭ. 
-https://www.kaggle.com/c/2021-bank-scoring-case-2/overview
+The project was completed in the course of training on the program "Data Analysis" from the Center for Mathematical Finance of the National Research University Higher School of Economics. https://www.kaggle.com/c/2021-bank-scoring-case-2/overview
 
-В inclass competition на kaggle  решение заняло первое место. 
+In the in-class competition on Kaggle, the solution took first place.
 
-Проект выполнялся в большей степени в образовательных целях. Был проведен разведочный анализ данных, созданы новые признаки, были простестированы разные классы моделей. Наилучшее решение получилось с использованием нескольких catboost моделей с гиперпараметрами, полученными с помощью oputna.
+The project was carried out to a greater extent for educational purposes. Exploratory data analysis was carried out, new features were created, and different classes of models were tested. The best solution was obtained using several catboost models with hyperparameters obtained using oputna.
